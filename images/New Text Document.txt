@@ -1,0 +1,20 @@
+
+
+
+Certifications names
+Microsoft Certified: Azure security, compliance, and identity fundamentals
+https://learn.microsoft.com/api/credentials/share/en-us/UritiSrikanth-1852/B486C00A158509C1?sharingId=C1F90250A813A39
+
+
+Microsoft Certified: Azure Data Fundamentals
+https://learn.microsoft.com/api/credentials/share/en-us/UritiSrikanth-1852/5FBB79B870DAAA4F?sharingId=C1F90250A813A39
+
+
+Microsoft Certified: Azure Fundamentals
+https://learn.microsoft.com/api/credentials/share/en-us/UritiSrikanth-1852/BB328AD72AFCC3F5?sharingId=C1F90250A813A39
+
+Microsoft Certified: Power BI Data Analyst Associate
+https://learn.microsoft.com/api/credentials/share/en-us/UritiSrikanth-1852/C00D823BCF41090D?sharingId=C1F90250A813A39
+
+Microsoft Certified: Fabric Data Engineer Associate 
+https://learn.microsoft.com/api/credentials/share/en-us/UritiSrikanth-1852/ECEC0A8A6CADBA7?sharingId=C1F90250A813A39
